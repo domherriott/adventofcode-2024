@@ -1,5 +1,3 @@
-from functools import cache
-
 def get_input(fn):
     plants = []
     with open(fn, 'r') as f:
